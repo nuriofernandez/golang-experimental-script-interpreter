@@ -9,12 +9,12 @@ import (
 )
 
 func readFile() string {
-	if len(os.Args) != 1 {
+	if len(os.Args) != 2 {
 		advicer.Error("Nug script file not specified.")
 		return "-"
 	}
 
-	return os.Args[0]
+	return os.Args[1]
 }
 
 func main() {
