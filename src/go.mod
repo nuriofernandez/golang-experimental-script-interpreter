@@ -1,3 +1,3 @@
-module github.com/xXNurioXx/simple-golang-langparser
+module github.com/xXNurioXx/golang-experimental-script-interpreter
 
 go 1.12

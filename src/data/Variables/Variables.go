@@ -1,8 +1,8 @@
 package Variables
 
 import (
-	"github.com/xXNurioXx/simple-golang-langparser/advicer"
-	. "github.com/xXNurioXx/simple-golang-langparser/structs"
+	"github.com/xXNurioXx/golang-experimental-script-interpreter/advicer"
+	. "github.com/xXNurioXx/golang-experimental-script-interpreter/structs"
 )
 
 var Variables = []NugetVariable{}

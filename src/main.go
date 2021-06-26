@@ -2,8 +2,8 @@ package main
 
 import (
 	"bufio"
-	"github.com/xXNurioXx/simple-golang-langparser/advicer"
-	"github.com/xXNurioXx/simple-golang-langparser/parser"
+	"github.com/xXNurioXx/golang-experimental-script-interpreter/advicer"
+	"github.com/xXNurioXx/golang-experimental-script-interpreter/parser"
 	"log"
 	"os"
 )

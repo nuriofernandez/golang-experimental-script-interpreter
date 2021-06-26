@@ -1,8 +1,8 @@
 package nulog
 
 import (
-	"github.com/xXNurioXx/simple-golang-langparser/advicer"
-	"github.com/xXNurioXx/simple-golang-langparser/controllers"
+	"github.com/xXNurioXx/golang-experimental-script-interpreter/advicer"
+	"github.com/xXNurioXx/golang-experimental-script-interpreter/controllers"
 	"regexp"
 )
 

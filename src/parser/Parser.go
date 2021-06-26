@@ -1,8 +1,8 @@
 package parser
 
 import (
-	"github.com/xXNurioXx/simple-golang-langparser/parser/nugget"
-	"github.com/xXNurioXx/simple-golang-langparser/parser/nulog"
+	"github.com/xXNurioXx/golang-experimental-script-interpreter/parser/nugget"
+	"github.com/xXNurioXx/golang-experimental-script-interpreter/parser/nulog"
 )
 
 func Interpret(line string) {

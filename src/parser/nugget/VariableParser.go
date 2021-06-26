@@ -1,8 +1,8 @@
 package nugget
 
 import (
-	"github.com/xXNurioXx/simple-golang-langparser/advicer"
-	"github.com/xXNurioXx/simple-golang-langparser/data/Variables"
+	"github.com/xXNurioXx/golang-experimental-script-interpreter/advicer"
+	"github.com/xXNurioXx/golang-experimental-script-interpreter/data/Variables"
 	"regexp"
 )
 

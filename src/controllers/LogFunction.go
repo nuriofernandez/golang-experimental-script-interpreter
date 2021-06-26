@@ -2,8 +2,8 @@ package controllers
 
 import (
 	"fmt"
-	"github.com/xXNurioXx/simple-golang-langparser/data/Variables"
-	. "github.com/xXNurioXx/simple-golang-langparser/structs"
+	"github.com/xXNurioXx/golang-experimental-script-interpreter/data/Variables"
+	. "github.com/xXNurioXx/golang-experimental-script-interpreter/structs"
 	"regexp"
 	"strings"
 )
