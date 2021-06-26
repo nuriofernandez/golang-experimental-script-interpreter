@@ -1,0 +1,6 @@
+nugget me » 'Nurio';
+nugget emoji » '💖';
+nugget what » 'Code';
+
+nulog('Hi!');
+nulog('#{me} #{emoji} #{what}');
